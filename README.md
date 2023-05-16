@@ -1,2 +1,2 @@
 # exercicios_ebac
-Exercícios da Ebac do curso Qualidade de Softaware
+Exercícios da Ebac do curso Qualidade de Software
